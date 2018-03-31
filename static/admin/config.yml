@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: bitbucket
+  repo: lukeajtodd/netlifyCMSGatsby
 
 media_folder: static/assets
 
