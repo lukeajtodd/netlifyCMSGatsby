@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: lukeajtodd/netlifyCMSGatsby
+  branch: ghub-branch
 
 media_folder: static/assets
 
